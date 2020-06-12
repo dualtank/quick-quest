@@ -16,7 +16,7 @@ Quick Quest is released on a CC BY-NC-SA 3.0 license (https://creativecommons.or
 
 ## Want to add a translation?
 
-1. Make a copy of /src/translations/en.txt.
+1. Make a copy of [/src/translations/en.txt](/src/translations/en.txt).
 2. Rename your file using the ISO 639-1 code for your language (see https://www.loc.gov/standards/iso639-2/php/code_list.php).
 3. Translate all the text strings, making sure to maintain any html elements (e.g. strong/span).
 4. Let me know about your changes, either by making a pull request or by sending me the translations directly. Once merged, I'll generate a new translated pdf for the language (when verified).
