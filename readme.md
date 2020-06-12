@@ -2,7 +2,7 @@
 
 A 1-page RPG-lite d20 ruleset. This project contains distributable pdfs and translation files to share and update Quick Quest.
 
-![READ THE PDF](dist/pdfs/quick_quest_v1_1_en.pdf)
+[READ THE PDF](dist/pdfs/quick_quest_v1_1_en.pdf)
 
 # License
 
