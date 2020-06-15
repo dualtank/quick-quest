@@ -45,7 +45,7 @@ rules.play.list.5.list.2=Intentar algo <strong>EXTRAORDINARIO</strong>.
 rules.play.list.6=Si tu determinación llega a 0, estás <strong>FUERA DE JUEGO</strong>.
 rules.play.list.7=Recuperas 1 determinación cuando <strong>FINALICES UN DESCANSO LARGO</strong>.
 rules.play.list.8=Puedes llevar hasta 3 <strong>OBJETOS IMPORTANTES</strong> a la vez.
-rules.play.list.9=Cuando completes la misión, ¡la partida termina! Si has sobrevivido, <strong>OBTIENES UN BENEFICIO</strong>. Puedes escoger (a) +1 punto de atributo, (b) +1 punto de arquetipo, or (c) +1 determinación máxima.
+rules.play.list.9=Cuando completes la misión, ¡la partida termina! Si has sobrevivido, <strong>OBTIENES UN BENEFICIO</strong>. Puedes escoger (a) +1 punto de atributo, (b) +1 punto de arquetipo, o (c) +1 determinación máxima.
 rules.footer=<span>Quick Quest v1.1 por giffyglyph.com</span><span>Licencia CC BY-NC-SA 3.0</span>
 
 sheet.character.title=Personaje
